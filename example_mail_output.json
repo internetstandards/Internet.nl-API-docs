@@ -1,0 +1,488 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "submission-date": "2019-05-24T14:54:48.950527+00:00",
+    "finished-date": "2019-05-24T14:55:21.188355+00:00",
+    "name": "My mail test",
+    "identifier": "6763b6ba98c144299439aa3a02665808",
+    "api-version": "1.1",
+    "domains": [
+      {
+        "domain": "opennetlabs.com",
+        "status": "ok",
+        "score": 43,
+        "link": "http://batch.internet.nl/mail/opennetlabs.com/361082/",
+        "categories": [
+          {
+            "category": "ipv6",
+            "passed": false
+          },
+          {
+            "category": "dnssec",
+            "passed": true
+          },
+          {
+            "category": "auth",
+            "passed": false
+          },
+          {
+            "category": "tls",
+            "passed": false
+          }
+        ],
+        "views": [
+          {
+            "name": "mail_auth_dkim_exist",
+            "result": false
+          },
+          {
+            "name": "mail_auth_dmarc_exist",
+            "result": false
+          },
+          {
+            "name": "mail_auth_dmarc_ext_destination",
+            "result": false
+          },
+          {
+            "name": "mail_auth_dmarc_policy",
+            "result": false
+          },
+          {
+            "name": "mail_auth_dmarc_policy_only",
+            "result": false
+          },
+          {
+            "name": "mail_auth_spf_exist",
+            "result": false
+          },
+          {
+            "name": "mail_auth_spf_policy",
+            "result": false
+          },
+          {
+            "name": "mail_dnssec_mailto_exist",
+            "result": true
+          },
+          {
+            "name": "mail_dnssec_mailto_valid",
+            "result": true
+          },
+          {
+            "name": "mail_dnssec_mx_exist",
+            "result": true
+          },
+          {
+            "name": "mail_dnssec_mx_valid",
+            "result": true
+          },
+          {
+            "name": "mail_ipv6_mx_address",
+            "result": false
+          },
+          {
+            "name": "mail_ipv6_mx_reach",
+            "result": true
+          },
+          {
+            "name": "mail_ipv6_ns_address",
+            "result": true
+          },
+          {
+            "name": "mail_ipv6_ns_reach",
+            "result": true
+          },
+          {
+            "name": "mail_non_sending_domain",
+            "result": false
+          },
+          {
+            "name": "mail_server_configured",
+            "result": true
+          },
+          {
+            "name": "mail_servers_testable",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_cert_chain",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_cert_domain",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_cert_pubkey",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_cert_sig",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_dane_exist",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_dane_rollover",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_dane_ta",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_dane_valid",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_available",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_ciphers",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_clientreneg",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_compress",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_keyexchange",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_secreneg",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_version",
+            "result": false
+          }
+        ]
+      },
+      {
+        "domain": "internet.nl",
+        "status": "ok",
+        "score": 100,
+        "link": "http://batch.internet.nl/mail/internet.nl/361081/",
+        "categories": [
+          {
+            "category": "ipv6",
+            "passed": true
+          },
+          {
+            "category": "dnssec",
+            "passed": true
+          },
+          {
+            "category": "auth",
+            "passed": true
+          },
+          {
+            "category": "tls",
+            "passed": true
+          }
+        ],
+        "views": [
+          {
+            "name": "mail_auth_dkim_exist",
+            "result": true
+          },
+          {
+            "name": "mail_auth_dmarc_exist",
+            "result": true
+          },
+          {
+            "name": "mail_auth_dmarc_ext_destination",
+            "result": true
+          },
+          {
+            "name": "mail_auth_dmarc_policy",
+            "result": true
+          },
+          {
+            "name": "mail_auth_dmarc_policy_only",
+            "result": true
+          },
+          {
+            "name": "mail_auth_spf_exist",
+            "result": true
+          },
+          {
+            "name": "mail_auth_spf_policy",
+            "result": true
+          },
+          {
+            "name": "mail_dnssec_mailto_exist",
+            "result": true
+          },
+          {
+            "name": "mail_dnssec_mailto_valid",
+            "result": true
+          },
+          {
+            "name": "mail_dnssec_mx_exist",
+            "result": true
+          },
+          {
+            "name": "mail_dnssec_mx_valid",
+            "result": true
+          },
+          {
+            "name": "mail_ipv6_mx_address",
+            "result": true
+          },
+          {
+            "name": "mail_ipv6_mx_reach",
+            "result": true
+          },
+          {
+            "name": "mail_ipv6_ns_address",
+            "result": true
+          },
+          {
+            "name": "mail_ipv6_ns_reach",
+            "result": true
+          },
+          {
+            "name": "mail_non_sending_domain",
+            "result": false
+          },
+          {
+            "name": "mail_server_configured",
+            "result": true
+          },
+          {
+            "name": "mail_servers_testable",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_cert_chain",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_cert_domain",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_cert_pubkey",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_cert_sig",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_dane_exist",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_dane_rollover",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_dane_ta",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_dane_valid",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_tls_available",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_tls_ciphers",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_tls_clientreneg",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_tls_compress",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_tls_keyexchange",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_tls_secreneg",
+            "result": true
+          },
+          {
+            "name": "mail_starttls_tls_version",
+            "result": true
+          }
+        ]
+      },
+      {
+        "domain": "example.nl",
+        "status": "ok",
+        "score": 100,
+        "link": "http://batch.internet.nl/mail/example.nl/361080/",
+        "categories": [
+          {
+            "category": "ipv6",
+            "passed": true
+          },
+          {
+            "category": "dnssec",
+            "passed": true
+          },
+          {
+            "category": "auth",
+            "passed": true
+          },
+          {
+            "category": "tls",
+            "passed": false
+          }
+        ],
+        "views": [
+          {
+            "name": "mail_auth_dkim_exist",
+            "result": true
+          },
+          {
+            "name": "mail_auth_dmarc_exist",
+            "result": true
+          },
+          {
+            "name": "mail_auth_dmarc_ext_destination",
+            "result": true
+          },
+          {
+            "name": "mail_auth_dmarc_policy",
+            "result": true
+          },
+          {
+            "name": "mail_auth_dmarc_policy_only",
+            "result": true
+          },
+          {
+            "name": "mail_auth_spf_exist",
+            "result": true
+          },
+          {
+            "name": "mail_auth_spf_policy",
+            "result": true
+          },
+          {
+            "name": "mail_dnssec_mailto_exist",
+            "result": true
+          },
+          {
+            "name": "mail_dnssec_mailto_valid",
+            "result": true
+          },
+          {
+            "name": "mail_dnssec_mx_exist",
+            "result": false
+          },
+          {
+            "name": "mail_dnssec_mx_valid",
+            "result": false
+          },
+          {
+            "name": "mail_ipv6_mx_address",
+            "result": false
+          },
+          {
+            "name": "mail_ipv6_mx_reach",
+            "result": false
+          },
+          {
+            "name": "mail_ipv6_ns_address",
+            "result": true
+          },
+          {
+            "name": "mail_ipv6_ns_reach",
+            "result": true
+          },
+          {
+            "name": "mail_non_sending_domain",
+            "result": false
+          },
+          {
+            "name": "mail_server_configured",
+            "result": false
+          },
+          {
+            "name": "mail_servers_testable",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_cert_chain",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_cert_domain",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_cert_pubkey",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_cert_sig",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_dane_exist",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_dane_rollover",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_dane_ta",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_dane_valid",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_available",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_ciphers",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_clientreneg",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_compress",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_keyexchange",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_secreneg",
+            "result": false
+          },
+          {
+            "name": "mail_starttls_tls_version",
+            "result": false
+          }
+        ]
+      }
+    ],
+    "api-view-id": "20190524_FS"
+  }
+}

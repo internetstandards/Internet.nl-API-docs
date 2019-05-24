@@ -1,0 +1,428 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "submission-date": "2019-05-24T14:48:50.943450+00:00",
+    "finished-date": "2019-05-24T14:50:17.189454+00:00",
+    "name": "My web test",
+    "identifier": "8e529d3cc6e84f91a20761d9bc7c3618",
+    "api-version": "1.1",
+    "domains": [
+      {
+        "domain": "opennetlabs.com",
+        "status": "ok",
+        "score": 51,
+        "link": "http://batch.internet.nl/site/opennetlabs.com/662622/",
+        "categories": [
+          {
+            "category": "ipv6",
+            "passed": false
+          },
+          {
+            "category": "dnssec",
+            "passed": true
+          },
+          {
+            "category": "tls",
+            "passed": false
+          },
+          {
+            "category": "appsecpriv",
+            "passed": false
+          }
+        ],
+        "views": [
+          {
+            "name": "web_appsecpriv_csp",
+            "result": false
+          },
+          {
+            "name": "web_appsecpriv_referrer_policy",
+            "result": false
+          },
+          {
+            "name": "web_appsecpriv_x_content_type_options",
+            "result": false
+          },
+          {
+            "name": "web_appsecpriv_x_frame_options",
+            "result": false
+          },
+          {
+            "name": "web_appsecpriv_x_xss_protection",
+            "result": false
+          },
+          {
+            "name": "web_dnssec_exist",
+            "result": true
+          },
+          {
+            "name": "web_dnssec_valid",
+            "result": true
+          },
+          {
+            "name": "web_https_cert_chain",
+            "result": false
+          },
+          {
+            "name": "web_https_cert_domain",
+            "result": false
+          },
+          {
+            "name": "web_https_cert_pubkey",
+            "result": false
+          },
+          {
+            "name": "web_https_cert_sig",
+            "result": false
+          },
+          {
+            "name": "web_https_dane_exist",
+            "result": false
+          },
+          {
+            "name": "web_https_dane_valid",
+            "result": false
+          },
+          {
+            "name": "web_https_http_available",
+            "result": false
+          },
+          {
+            "name": "web_https_http_compress",
+            "result": false
+          },
+          {
+            "name": "web_https_http_hsts",
+            "result": false
+          },
+          {
+            "name": "web_https_http_redirect",
+            "result": false
+          },
+          {
+            "name": "web_https_tls_ciphers",
+            "result": false
+          },
+          {
+            "name": "web_https_tls_clientreneg",
+            "result": false
+          },
+          {
+            "name": "web_https_tls_compress",
+            "result": false
+          },
+          {
+            "name": "web_https_tls_keyexchange",
+            "result": false
+          },
+          {
+            "name": "web_https_tls_secreneg",
+            "result": false
+          },
+          {
+            "name": "web_https_tls_version",
+            "result": false
+          },
+          {
+            "name": "web_ipv6_ns_address",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ns_reach",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ws_address",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ws_reach",
+            "result": false
+          },
+          {
+            "name": "web_ipv6_ws_similar",
+            "result": false
+          }
+        ]
+      },
+      {
+        "domain": "internet.nl",
+        "status": "ok",
+        "score": 100,
+        "link": "http://batch.internet.nl/site/internet.nl/662621/",
+        "categories": [
+          {
+            "category": "ipv6",
+            "passed": true
+          },
+          {
+            "category": "dnssec",
+            "passed": true
+          },
+          {
+            "category": "tls",
+            "passed": true
+          },
+          {
+            "category": "appsecpriv",
+            "passed": true
+          }
+        ],
+        "views": [
+          {
+            "name": "web_appsecpriv_csp",
+            "result": true
+          },
+          {
+            "name": "web_appsecpriv_referrer_policy",
+            "result": true
+          },
+          {
+            "name": "web_appsecpriv_x_content_type_options",
+            "result": true
+          },
+          {
+            "name": "web_appsecpriv_x_frame_options",
+            "result": true
+          },
+          {
+            "name": "web_appsecpriv_x_xss_protection",
+            "result": true
+          },
+          {
+            "name": "web_dnssec_exist",
+            "result": true
+          },
+          {
+            "name": "web_dnssec_valid",
+            "result": true
+          },
+          {
+            "name": "web_https_cert_chain",
+            "result": true
+          },
+          {
+            "name": "web_https_cert_domain",
+            "result": true
+          },
+          {
+            "name": "web_https_cert_pubkey",
+            "result": true
+          },
+          {
+            "name": "web_https_cert_sig",
+            "result": true
+          },
+          {
+            "name": "web_https_dane_exist",
+            "result": true
+          },
+          {
+            "name": "web_https_dane_valid",
+            "result": true
+          },
+          {
+            "name": "web_https_http_available",
+            "result": true
+          },
+          {
+            "name": "web_https_http_compress",
+            "result": true
+          },
+          {
+            "name": "web_https_http_hsts",
+            "result": true
+          },
+          {
+            "name": "web_https_http_redirect",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_ciphers",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_clientreneg",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_compress",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_keyexchange",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_secreneg",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_version",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ns_address",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ns_reach",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ws_address",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ws_reach",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ws_similar",
+            "result": true
+          }
+        ]
+      },
+      {
+        "domain": "example.nl",
+        "status": "ok",
+        "score": 100,
+        "link": "http://batch.internet.nl/site/example.nl/662620/",
+        "categories": [
+          {
+            "category": "ipv6",
+            "passed": true
+          },
+          {
+            "category": "dnssec",
+            "passed": true
+          },
+          {
+            "category": "tls",
+            "passed": true
+          },
+          {
+            "category": "appsecpriv",
+            "passed": true
+          }
+        ],
+        "views": [
+          {
+            "name": "web_appsecpriv_csp",
+            "result": true
+          },
+          {
+            "name": "web_appsecpriv_referrer_policy",
+            "result": true
+          },
+          {
+            "name": "web_appsecpriv_x_content_type_options",
+            "result": true
+          },
+          {
+            "name": "web_appsecpriv_x_frame_options",
+            "result": true
+          },
+          {
+            "name": "web_appsecpriv_x_xss_protection",
+            "result": true
+          },
+          {
+            "name": "web_dnssec_exist",
+            "result": true
+          },
+          {
+            "name": "web_dnssec_valid",
+            "result": true
+          },
+          {
+            "name": "web_https_cert_chain",
+            "result": true
+          },
+          {
+            "name": "web_https_cert_domain",
+            "result": true
+          },
+          {
+            "name": "web_https_cert_pubkey",
+            "result": true
+          },
+          {
+            "name": "web_https_cert_sig",
+            "result": true
+          },
+          {
+            "name": "web_https_dane_exist",
+            "result": true
+          },
+          {
+            "name": "web_https_dane_valid",
+            "result": true
+          },
+          {
+            "name": "web_https_http_available",
+            "result": true
+          },
+          {
+            "name": "web_https_http_compress",
+            "result": true
+          },
+          {
+            "name": "web_https_http_hsts",
+            "result": true
+          },
+          {
+            "name": "web_https_http_redirect",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_ciphers",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_clientreneg",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_compress",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_keyexchange",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_secreneg",
+            "result": true
+          },
+          {
+            "name": "web_https_tls_version",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ns_address",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ns_reach",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ws_address",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ws_reach",
+            "result": true
+          },
+          {
+            "name": "web_ipv6_ws_similar",
+            "result": true
+          }
+        ]
+      }
+    ],
+    "api-view-id": "20190524_FS"
+  }
+}
