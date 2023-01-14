@@ -4,4 +4,4 @@ We have an API (and related dashboard for less technical users) that can be used
 
 Don't meet the requirements?
 * Send your contact details (name, organization, e-mail address) to question@internet.nl to make sure you get notified when our Steering Committee decides to make our API available to a wider public.
-* Create your own instance of Internet.nl. All of our products are open source and [available on GitHub](https://github.com/internetstandards)
+* Create your own instance of Internet.nl. All of our products are open source and [available on GitHub](https://github.com/internetstandards).
