@@ -5,6 +5,7 @@ We have an API (and related dashboard for less technical users) that can be used
 * non-profit organizations (governments).
 * members of Dutch Cloud Community (https://dutchcloudcommunity.nl/).
 * members of Vereniging van Registrars (https://www.verenigingvanregistrars.nl/).
+
 Only if you meet one of these requirements API and Dashboard access can be provided. Fill in the application form and send a copy to [question@internet.nl](mailto:question@internet.nl). 
 
 **Don't meet the requirements?**
