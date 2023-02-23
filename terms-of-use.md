@@ -14,9 +14,10 @@ By using an Internet.nl API / Dashboard account, you agree to being bound by the
 * Causing heavy loads for the Service makes things slower for other users. We therefore request the users to honor the following ‘fair use’ rules: 
   * Maximum 2 batch requests per week;
   * Per batch request a maximum of 5000 domain names;
-* Each account is linked to a single contact person. This person is responsible for the account. 
-  * Communication about changes or updates to the API and/or Dashboard is send to the contact person’s e-mail address.
-  * If the contact person cannot be reached via the given e-mail address, the account will be deleted.
+* Each account is linked to a single contact person: the account owner. The owner is responsible for the account. 
+  * Communication about changes or updates to the API and/or Dashboard is send to the owner’s e-mail address.
+  * If the owner cannot be reached via the given e-mail address, the account will be deleted.
   * Accounts that have not been used for longer than 12 months will be deleted. 
 * Per organization a maximum of 3 accounts will be provided.
+* It is not allowed to share an account with people not part of the organization of the owner.
 * The Dutch Internet Standards Platform can unilateral decide to withdraw API access. For example in case of unauthorized use of misuse.
