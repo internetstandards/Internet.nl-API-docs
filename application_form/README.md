@@ -1,6 +1,8 @@
 # API & Dashboard Access
 
-We have an API (and related dashboard for less technical users) that can be used for bulk requests. However, our is API is currently exclusively available for:
+We have an API (and related Dashboard for less technical users) that can be used for batch requests. Users are expected to comply with the [terms of use](https://github.com/internetstandards/Internet.nl-API-docs/blob/main/terms-of-use.md). 
+
+Our API is currently exclusively available for:
 * our platform members.
 * non-profit organizations (governments).
 * members of Dutch Cloud Community (https://dutchcloudcommunity.nl/).
