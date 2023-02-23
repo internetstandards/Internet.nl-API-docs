@@ -21,3 +21,4 @@ By using an Internet.nl API / Dashboard account, you agree to being bound by the
 * Per organization a maximum of 3 accounts will be provided.
 * It is not allowed to share an account with people not part of the organization of the owner.
 * The Dutch Internet Standards Platform can unilateral decide to withdraw API access. For example in case of unauthorized use of misuse.
+* Users will honor instructions of the Dutch Internet Standards Platform related to the usage of the Service.
