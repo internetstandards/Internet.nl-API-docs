@@ -3,9 +3,9 @@
 We have an API (and related Dashboard for less technical users) that can be used for batch requests. Users are expected to comply with the [terms of use](https://github.com/internetstandards/Internet.nl-API-docs/blob/main/terms-of-use.md). 
 
 Our API is currently exclusively available for:
-* our platform members.
-* non-profit organizations (governments).
-* members of Dutch Cloud Community (https://dutchcloudcommunity.nl/).
+* our platform members;
+* non-profit organizations (e.g. governments and foundations);
+* members of Dutch Cloud Community (https://dutchcloudcommunity.nl/);
 * members of Vereniging van Registrars (https://www.verenigingvanregistrars.nl/).
 
 Only if you meet one of these requirements API and Dashboard access can be provided. Fill in the application form and send a copy to [question@internet.nl](mailto:question@internet.nl). 
