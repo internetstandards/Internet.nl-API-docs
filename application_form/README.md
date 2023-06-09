@@ -4,7 +4,7 @@ We have an API (and related Dashboard for less technical users) that can be used
 
 Our API is currently exclusively available for:
 * our platform members;
-* non-profit organizations (e.g. governments and foundations);
+* non-profit organizations (e.g. governments, public universities, and foundations);
 * members of Dutch Cloud Community (https://dutchcloudcommunity.nl/);
 * members of Vereniging van Registrars (https://www.verenigingvanregistrars.nl/).
 
