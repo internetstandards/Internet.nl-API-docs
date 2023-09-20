@@ -5,8 +5,9 @@ We have an API (and related Dashboard for less technical users) that can be used
 Our API is currently exclusively available for:
 * our platform members;
 * non-profit organizations (e.g. governments, public universities, and foundations);
-* members of Dutch Cloud Community (https://dutchcloudcommunity.nl/);
-* members of Vereniging van Registrars (https://www.verenigingvanregistrars.nl/).
+* members of [Dutch Cloud Community](https://dutchcloudcommunity.nl/);
+* members of [Vereniging van Registrars](https://www.verenigingvanregistrars.nl/);
+* organizations that operate in "sectors of high criticality" according to the [NIS2 directive](https://eur-lex.europa.eu/eli/dir/2022/2555). In the Netherlands also known as "category A vital infrastructure" as mentioned by [NCTV](https://www.nctv.nl/onderwerpen/vitale-infrastructuur/overzicht-vitale-processen).
 
 Only if you meet one of these requirements API and Dashboard access can be provided. Fill in the application form and send a copy to [question@internet.nl](mailto:question@internet.nl). 
 
