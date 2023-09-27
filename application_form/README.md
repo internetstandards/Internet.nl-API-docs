@@ -9,7 +9,9 @@ Our API is currently exclusively available for:
 * members of [Vereniging van Registrars](https://www.verenigingvanregistrars.nl/);
 * organizations that operate in "sectors of high criticality" according to the [NIS2 directive](https://eur-lex.europa.eu/eli/dir/2022/2555). In the Netherlands also known as "category A vital infrastructure" as mentioned by [NCTV](https://www.nctv.nl/onderwerpen/vitale-infrastructuur/overzicht-vitale-processen).
 
-Only if you meet one of these requirements API and Dashboard access can be provided. Fill in the application form and send a copy to [question@internet.nl](mailto:question@internet.nl). 
+Only if you meet one of these requirements API and Dashboard access can be provided. Fill in the application form and send a copy to [question@internet.nl](mailto:question@internet.nl).  
+
+**Notice**: per organization a maximum of 3 accounts will be provided. 
 
 **Don't meet the requirements?**
 * Send your contact details (name, organization, e-mail address) to question@internet.nl to make sure you get notified when our Steering Committee decides to make our API available to a wider public.
