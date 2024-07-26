@@ -11,7 +11,8 @@ Our API is currently exclusively available for:
 6. hosters listed in our [Hall of Fame for hosters](https://en.internet.nl/halloffame/hosters/);
 7. for-profit organizations that offer services to (a substantial amount of) non-profit organizations (2) or to organizations in sectors of high criticality (5).
 
-Only if you meet one of these requirements API and Dashboard access can be provided. Please use our [online application form](https://dashboard.internet.nl/#/signup).  
+> [!IMPORTANT]
+> Only if you meet one of these requirements API and Dashboard access can be provided. Please use our [online application form](https://dashboard.internet.nl/#/signup) to apply for an account.  
 
 **Notice**: per organization a maximum of 3 accounts will be provided. 
 
