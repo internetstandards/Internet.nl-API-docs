@@ -5,11 +5,12 @@ We have an API (and related Dashboard for less technical users) that can be used
 Our API is currently exclusively available for:
 1. our platform members;
 2. non-profit organizations (e.g. governments, educational institutions, healtcare providers, associations, foundations);
-3. members of [Dutch Cloud Community](https://dutchcloudcommunity.nl/);
-4. members of [Vereniging van Registrars](https://www.verenigingvanregistrars.nl/);
-5. organizations that operate in "sectors of high criticality" according to the [NIS2 directive](https://eur-lex.europa.eu/eli/dir/2022/2555). In the Netherlands also known as "category A vital infrastructure" as mentioned by [NCTV](https://www.nctv.nl/onderwerpen/vitale-infrastructuur/overzicht-vitale-processen);
-6. hosters listed in our [Hall of Fame for hosters](https://en.internet.nl/halloffame/hosters/);
-7. for-profit organizations that offer services to (a substantial amount of) non-profit organizations (2) or to organizations in sectors of high criticality (5).
+   - are you a student and do you need access for a school project? Apply using your @school e-mail address, tell us a little bit about the project and when you expect the project to end.
+4. members of [Dutch Cloud Community](https://dutchcloudcommunity.nl/);
+5. members of [Vereniging van Registrars](https://www.verenigingvanregistrars.nl/);
+6. organizations that operate in "sectors of high criticality" according to the [NIS2 directive](https://eur-lex.europa.eu/eli/dir/2022/2555). In the Netherlands also known as "category A vital infrastructure" as mentioned by [NCTV](https://www.nctv.nl/onderwerpen/vitale-infrastructuur/overzicht-vitale-processen);
+7. hosters listed in our [Hall of Fame for hosters](https://en.internet.nl/halloffame/hosters/);
+8. for-profit organizations that offer services to (a substantial amount of) non-profit organizations (2) or to organizations in sectors of high criticality (5).
 
 > [!IMPORTANT]
 > Only if you meet one of these requirements API and Dashboard access can be provided. Please use our [online application form](https://dashboard.internet.nl/#/signup) to apply for an account.  
