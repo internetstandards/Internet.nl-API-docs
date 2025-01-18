@@ -1,5 +1,5 @@
 # API documentation
-The API documentation of the Internet.nl API v2.y.z can be found on https://batch.internet.nl/api/batch/openapi.yaml. 
+The API documentation of the Internet.nl API v2 can be found on https://batch.internet.nl/api/batch/openapi.yaml. 
 
 A viewer, like ReDoc, can be used for generating a human readable version: https://redocly.github.io/redoc/?url=https://batch.internet.nl/api/batch/openapi.yaml.
 
