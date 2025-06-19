@@ -5,7 +5,7 @@ A viewer, like ReDoc, can be used for generating a human readable version: https
 
 Examples of API consumer scripts:
 - Internet.nl Dashboard: https://github.com/internetstandards/Internet.nl-dashboard
-- Internet.nl batch scripts: https://github.com/poorting/internet.nl_batch_scripts
+- Internet.nl batch scripts: https://codeberg.org/poorting/internet.nl_batch_scripts
 
 # Sequence of handling batches of domains
 - Batch requests are processed on a FIFO basis for a particular user. This means a users can submit multiple batch requests, but they are processed sequentally. The first / current batch requests needs to finish before the next one starts. 
